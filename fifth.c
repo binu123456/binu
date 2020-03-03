@@ -1,7 +1,7 @@
 #include<stdio.h>
 float main()
 {
-float a,b,f;
+float la,b,f;
 printf("key in the first number");
 scanf("%f",&a);
 printf("key inb the second number");
